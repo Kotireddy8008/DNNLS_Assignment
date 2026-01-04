@@ -1,0 +1,7 @@
+torch
+torchvision
+datasets
+nltk
+tqdm
+seaborn
+matplotlib
